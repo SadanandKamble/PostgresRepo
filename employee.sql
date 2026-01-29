@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SELECT * FROM departments;
 
 SELECT * FROM employees;
@@ -48,4 +49,6 @@ GROUP BY department_id;
 UPDATE employees
 SET salary = salary * 1.05
 WHERE department_id = 1;
+=======
+>>>>>>> 2b37b8a97f09bb48dcef37f7388aa864372bf74f
 
